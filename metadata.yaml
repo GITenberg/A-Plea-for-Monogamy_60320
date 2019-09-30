@@ -1,0 +1,27 @@
+_repo: A-Plea-for-Monogamy_60320
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lay, Wilfrid
+    birthdate: 1872
+    gutenberg_agent_id: '50894'
+    url: http://www.gutenberg.org/2009/agents/50894
+description: ''
+gutenberg_issued: '2019-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love'
+- !lcsh 'Marriage'
+- !lcc 'HQ'
+- GITenberg
+tableOfContents: True conception of marriage -- Modern emotional unrest -- Emotions
+  -- Instincts -- The love episode -- Control -- The unhappy marriage -- Hologamy
+  vs. prostitution -- The new marriage -- Birth control.
+title: A Plea for Monogamy
+url: http://www.gutenberg.org/ebooks/60320
